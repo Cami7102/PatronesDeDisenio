@@ -1,17 +1,20 @@
-Se tiene un distribuidor de celulares que también asigna líneas telefónicas (SIM), y este maneja modelos
-de celulares controlados, se quiere tener un registro de los celulares vendidos
+Se tiene un restaurante que se encarga de la preparacion de pizzas, las pizzas tienes
+atributos comunes como ser ingredientes, tipoMasa,  tipoQueso.
 
-características del celular (Samsung R10)
+Se tienes distintos tipos de pizzas
 
-- tamaño
-- CPU
-- memory
-- sim (nombreEmpresaTel, numeroTelefono)
-- versionAndroid
-- cámara
-- Bluetooth
-- cantidadDeMemoriasExternas
-- tipoBateria
-- accesorios (audífonos, cargador, estuche)
+* Pizza Carnivora
+  ingredientes = carne, salsa tomate, otro.
+  tipoMasa= masa especial
+  tipoQueso= quezo mozarella
 
-Crear 3 celulares de tipo SamsungR10
+* Pizza Hawaina
+  ingredientes = pina, salsa tomate, otro.
+  tipoMasa= masa normal
+  tipoQueso= quezo mozarella tipo2
+
+* Pizza Clasica
+
+  ingredientes = salsa tomate, otro.
+  tipoMasa= masa especial
+  tipoQueso= doble quezo mozarella tipo2
