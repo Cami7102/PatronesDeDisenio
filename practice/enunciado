@@ -1,20 +1,12 @@
-Se tiene un restaurante que se encarga de la preparacion de pizzas, las pizzas tienes
-atributos comunes como ser ingredientes, tipoMasa,  tipoQueso.
+Se tiene una expresion que se escribe en numeros naturales (1 -- 10) <<----- input
+se quiere interpretar estos en numero romanos << ----- output
 
-Se tienes distintos tipos de pizzas
+i.e1:
 
-* Pizza Carnivora
-  ingredientes = carne, salsa tomate, otro.
-  tipoMasa= masa especial
-  tipoQueso= quezo mozarella
+1 2 3 4 5 6 7 8 9 10
 
-* Pizza Hawaina
-  ingredientes = pina, salsa tomate, otro.
-  tipoMasa= masa normal
-  tipoQueso= quezo mozarella tipo2
+I II III IV V VI VII VIII IX X
 
-* Pizza Clasica
+i.e2:
 
-  ingredientes = salsa tomate, otro.
-  tipoMasa= masa especial
-  tipoQueso= doble quezo mozarella tipo2
+1 5 ---->  I  V
